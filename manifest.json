@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "PDF Google Translate",
+  "version": "1.0",
+  "description": "Translate selected text in PDFs using Google Translate.",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["https://translate.googleapis.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["pdfjs/pdf.js", "content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
