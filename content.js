@@ -56,7 +56,7 @@ document.addEventListener("mouseup", function (event) {
 
       setTimeout(() => tooltip.remove(), 5000);
     } catch (error) {
-      alert("خطا در ترجمه!");
+      alert("Translate Error!");
     }
 
     translateButton.remove();
