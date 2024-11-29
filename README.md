@@ -14,3 +14,6 @@ If you use Google Chrome or Brave browser and need to translate words or phrases
 2. Select a word or phrase.  
 3. Right-click and choose **Translate selection to**.  
 4. On the address bar, select your target language.
+
+Credits
+Original files or inspiration: https://github.com/mozilla/pdf.js/releases
