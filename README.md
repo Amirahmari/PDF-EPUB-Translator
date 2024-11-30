@@ -3,7 +3,7 @@
 If you use Google Chrome or Brave browser and need to translate words or phrases in PDF or EPUB files, this extension can help.
 
 ## How to Install  
-1. Click on the burger menu (`≡`) in your browser.  
+1. Click on the burger menu (`≡`) or dot (`...`) in your browser.  
 2. Select **Extensions**.  
 3. Click **Load unpacked**.  
 4. Select this folder.  
